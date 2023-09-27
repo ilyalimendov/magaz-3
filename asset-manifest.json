@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magaz-3/static/css/main.0be3abaf.css",
+    "main.js": "/magaz-3/static/js/main.469e605d.js",
+    "index.html": "/magaz-3/index.html",
+    "main.0be3abaf.css.map": "/magaz-3/static/css/main.0be3abaf.css.map",
+    "main.469e605d.js.map": "/magaz-3/static/js/main.469e605d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be3abaf.css",
+    "static/js/main.469e605d.js"
+  ]
+}
